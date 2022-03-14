@@ -1,4 +1,4 @@
-1. git clone
+1. git clone https://github.com/ervanade/CRUD-laravel-vue.git
 2. cd CRUD-laravel-vue/backend-api
 3. composer install
 4. konfigurasi database file .env
