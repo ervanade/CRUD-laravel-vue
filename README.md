@@ -7,6 +7,8 @@
 6. php artisan serve
 
 Buka Terminal Baru
+
+
 7. cd ../frontend-api
 8. npm install
 9. npm run dev
